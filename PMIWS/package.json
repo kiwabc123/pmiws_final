@@ -1,0 +1,22 @@
+{
+  "name": "pmiws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run serve",
+    "install": "cd frontend && npm install & cd backend && npm install"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiwabc123/PMIWS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiwabc123/PMIWS/issues"
+  },
+  "homepage": "https://github.com/kiwabc123/PMIWS#readme"
+}
